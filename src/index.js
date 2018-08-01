@@ -10,6 +10,6 @@ import HelloWorld from './HelloWorld';
 //registerServiceWorker();
 
 ReactDOM.render(
-    <HelloWorld />,
+    <HelloWorld txt="Olá Mundo do ReactJS"/>,
     document.getElementById('root')
 )
